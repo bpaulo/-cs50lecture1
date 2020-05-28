@@ -20,3 +20,8 @@
 - `git commit -am <"message">`
 
 > It adds all the files on tracking and commit in the same command.
+
+
+- `git push --set-upstream origin <branchName>`
+
+> It pushes no upstram branches to the origin. 
