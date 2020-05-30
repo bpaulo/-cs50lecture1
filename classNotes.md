@@ -30,3 +30,18 @@
 - `git pull`
 
 > `git pull` command is a "alias" for two commands these are `git featch` and then `git merger origin/master`.
+
+
+# CSS
+
+## CSS Selectors
+
+|Syntax |Description               |
+|:-----:|:-------------------------|
+|`a,b`  |Multiple Element Selector |
+|`a b`  |Descendant Selector       |
+|`a > b`|Child Selector            |
+|`a + b`|Adjancent Sibling Selector|
+|`[a=b]`|Attribute Selector        |
+|`a:b`  |Pseudoclass Selector      |
+|`a::b` |Pseudoelemet Selector     |
