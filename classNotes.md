@@ -45,3 +45,9 @@
 |`[a=b]`|Attribute Selector        |
 |`a:b`  |Pseudoclass Selector      |
 |`a::b` |Pseudoelemet Selector     |
+
+# Responsive Design
+
+Assign different design based on the devices/output (big screens, small screens, printers, etc). 
+
+## Media Queries
