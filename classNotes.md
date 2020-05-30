@@ -25,3 +25,8 @@
 - `git push --set-upstream origin <branchName>`
 
 > It pushes no upstram branches to the origin. 
+
+
+- `git pull`
+
+> `git pull` command is a "alias" for two commands these are `git featch` and then `git merger origin/master`.
